@@ -2,7 +2,7 @@
 
 ## Demo
 
-Try the live demo: [JavaScript Drum Kit](https://andrejilic05.github.io/JavaScript-Drum-Kit/)
+Try the live demo: [JavaScript Drum Kit]([https://andrejilic05.github.io/JavaScript-Drum-Kit/](https://andrejilic05.github.io/JavaScript-Drums/))
 
 ![JavaScript Drum Kit Screenshot](drums.png)
 
