@@ -36,3 +36,9 @@ This application transforms your keyboard into a drum kit, with each key corresp
 - `J` - Snare
 - `I` - Hi-Hat Open
 - `K` - Hi-Hat Closed
+
+## 📧 Contact
+For any questions or feedback, feel free to reach out:
+
+- Email: ilicandrej2005@gmail.com
+- GitHub: AndrejIlic05
